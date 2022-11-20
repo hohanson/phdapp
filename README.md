@@ -1,6 +1,6 @@
 # PhD application materials
 
-This page contains documents supporting my PhD application:
+This page contains supporting documents for my PhD application:
 
 1. CV
 
