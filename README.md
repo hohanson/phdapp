@@ -2,6 +2,6 @@
 
 1. CV
 
-1. Skin in the game: College's financial incentives and student outcomes
+1. [Skin in the game: College's financial incentives and student outcomes](https://github.com/hohanson/documents/blob/main/skiningame.pdf)
 
 1. Optimal education subsidy and income tax with incomplete markets (master's thesis)
