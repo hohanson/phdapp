@@ -2,7 +2,7 @@
 
 This page contains supporting documents for my PhD application:
 
-1. CV
+1. [CV](https://github.com/hohanson/documents/blob/main/cv.pdf)
 
 2. [Skin in the game: College's financial incentives and student outcomes](https://github.com/hohanson/documents/blob/main/skiningame.pdf)
 
