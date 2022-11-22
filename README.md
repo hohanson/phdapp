@@ -4,7 +4,7 @@ This page contains supporting documents for my PhD application:
 
 1. [CV](https://github.com/hohanson/documents/blob/main/cv.pdf)
 
-2. [Skin in the game: College's financial incentives and student outcomes](https://github.com/hohanson/documents/blob/main/skiningame.pdf)
+2. [Skin in the game: College's financial incentives and student outcomes](https://github.com/hohanson/documents/blob/main/skiningame.pdf) (writing sample)
 
 Abstract: This paper studies how schools respond to financial incentives. Governments can penalize institutions with high dropout or loan default rates, and these institutions can respond by increasing quality or changing the selection of students. We build an equilibrium model to illustrate the trade-off faced by policymakers. We study the predictions of the model using a 2017 reform in Brazil, which made schools pay a fee for students receiving federal student loans that dropped out or defaulted. Consistent with the predictions of the model, we find that schools more reliant on government aid reduced dropout rates, primarily by increasing quality.
 
